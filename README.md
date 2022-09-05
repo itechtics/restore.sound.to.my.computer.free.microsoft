@@ -2,7 +2,7 @@
 # Restore sound to my computer free microsoft
 
 
-[![Restore sound to my computer free microsoft](red2.png)](https://github.com/itechtics/restore.sound.to.my.computer.free.microsoft)
+[![Restore sound to my computer free microsoft](red2.png)](https://icncomputer.com/restore-sound-to-my-computer-free-microsoft/)
 
 You can easily restore audio on your computer in a few minutes. The audio drive is deleted or gets corrupted for various reasons. Deleting drive does not delete the audio files.
 
